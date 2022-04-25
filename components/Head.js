@@ -3,7 +3,7 @@ import { Link, animateScroll as scroll } from "react-scroll";
 
 const Head = () => {
     return (
-        <Center style={{ width: '60vw', height: '95vh' }} id="home">
+        <Center style={{ width: '60vw', marginTop: 300  }} id="home">
             <Group direction="column">
                 <Text color="yellow">
                     Hi, my name is

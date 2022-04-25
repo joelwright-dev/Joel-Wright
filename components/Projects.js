@@ -29,7 +29,7 @@ const Journey = () => {
         <div ref={ref} id="projects">
             <motion.div
                 animate={animation}>
-                <Center style={{ width: '60vw', height: '95vh' }} id="awards">
+                <Center style={{ width: '60vw', marginTop: 300, marginBottom: 300  }} id="awards">
                     <Group direction="column">
                         <Title order={2}>My Projects</Title>
                         <Grid grow>

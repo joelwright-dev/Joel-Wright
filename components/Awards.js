@@ -25,7 +25,7 @@ const Journey = () => {
     }, [inView])
 
     return (
-        <Center style={{ width: '60vw', height: '95vh' }} id="awards">
+        <Center style={{ width: '60vw', marginTop: 300}} id="awards">
             <Group direction="column">
                 <Title order={2}>My Awards</Title>
                 <Grid grow>

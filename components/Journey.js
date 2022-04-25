@@ -5,7 +5,7 @@ const Journey = () => {
     const theme = useMantineTheme();
 
     return (
-        <Center style={{ width: '60vw', height: '95vh' }} id="journey">
+        <Center style={{ width: '60vw', marginTop: 300  }} id="journey">
             <Group direction="column">
                 <Title order={2}>My Journey So Far...</Title>
                 <Timeline active={4}>

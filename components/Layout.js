@@ -31,16 +31,6 @@ const Layout = ({children}) => {
           <Header p="md" style={{ border: 'none', background: 'none' }}>
             {/* Handle other responsive styles with MediaQuery component or createStyles function */}
             <div style={{ display: 'flex', justifyContent: "space-between"}}>
-              <MediaQuery largerThan="sm" styles={{ display: 'none' }}>
-                <Burger
-                  opened={opened}
-                  onClick={() => setOpened((o) => !o)}
-                  size="sm"
-                  color={theme.colors.gray[6]}
-                  mr="xl"
-                />
-              </MediaQuery>
-              <Logo/>
               <ActionIcon variant="default" onClick={() => toggleColorScheme()} size={30}>
                 {theme.colorScheme === 'dark' ? <Sun size={16} /> : <MoonStars size={16} />}
               </ActionIcon>
