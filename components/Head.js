@@ -15,7 +15,7 @@ const Head = () => {
                     I build programs to make your life easier.
                 </Title>
                 <Text>
-                    I'm a programmer caught up in blockchain development and web application design. I'm currently working on a system for the community to collaborate on the platforms they're using. I'm doing this using industry standard frameworks and programming languages. I'm using Next.js, Node.js and blockchain fundamentals to contribute to the web 3 movement.
+                    I&apos;m a programmer caught up in blockchain development and web application design. I&apos;m currently working on a system for the community to collaborate on the platforms they&apos;re using. I&apos;m doing this using industry standard frameworks and programming languages. I&apos;m using Next.js, Node.js and blockchain fundamentals to contribute to the web 3 movement.
                 </Text>
                 <Button variant="outline" size="lg">
                     <Link

@@ -26,7 +26,7 @@ const Journey = () => {
                         <Text size="xs" mt={4}>Age 15</Text>
                     </Timeline.Item>
                     <Timeline.Item title="Grade 11">
-                        <Text color="dimmed" size="sm">Founded my very own blockchain based service where users can vote on their needs and wants in the programs they're using by learning Next.js, API development in Express.js and blockchain fundamentals.</Text>
+                        <Text color="dimmed" size="sm">Founded my very own blockchain based service where users can vote on their needs and wants in the programs they&apos;re using by learning Next.js, API development in Express.js and blockchain fundamentals.</Text>
                         <Text size="xs" mt={4}>Age 16/17</Text>
                     </Timeline.Item>
                     <Timeline.Item title="Grade 12">
@@ -34,7 +34,7 @@ const Journey = () => {
                         <Text size="xs" mt={4}>Age 17/18</Text>
                     </Timeline.Item>
                     <Timeline.Item title="...">
-                        <Text color="dimmed" size="sm">What's next?</Text>
+                        <Text color="dimmed" size="sm">What&apos;s next?</Text>
                     </Timeline.Item>
                 </Timeline>
                 <Button variant="outline" size="lg">
