@@ -20,10 +20,10 @@
     <i>C# Game Development</i><br><br>
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neonoir-dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2596be&icon_color=114381&text_color=D3D3D3&bg_color=0,000000,2596be" alt="joelwright-dev's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelwright-dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2596be&icon_color=114381&text_color=D3D3D3&bg_color=0,000000,2596be" alt="joelwright-dev's Github Stats">
   </br>
   </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neonoir-dev&title_color=2596be&icon_color=114381&text_color=D3D3D3&bg_color=0,000000,2596be" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelwright-dev&title_color=2596be&icon_color=114381&text_color=D3D3D3&bg_color=0,000000,2596be" />
   </br>
   </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br><br>
